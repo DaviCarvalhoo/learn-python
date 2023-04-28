@@ -1,2 +1,2 @@
 # Python
-learn python
+learn python xpe
